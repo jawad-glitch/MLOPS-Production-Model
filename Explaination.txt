@@ -1,0 +1,3 @@
+WHAT THIS MODEL DOES:
+Given certain set of feature such as (continent, job_experience, education, training, employment , etc).
+We have to predict wether the visa application will be approved or not.
